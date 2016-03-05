@@ -7,5 +7,4 @@
  */
 echo "ikram test2222";
 
-echo "ikram test2";
 ?>
